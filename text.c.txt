@@ -1,8 +1,8 @@
 #include<stdio.h>
 
 int main(){
-int x=10;
-int y=20;
+int x=50;
+int y=60;
 
 int temp=x;
 x=y;
